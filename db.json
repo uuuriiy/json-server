@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "isSale": true,
+        "name": "Balsam",
+        "price":  299,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/balsam.webp",
+        "alt": "balsam"
+      },
+      {
+        "id": 2,
+        "isSale": true,
+        "name": "Ashford",
+        "price":  315,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/ashford.webp",
+        "alt": "Ashford"
+      },
+      {
+        "id": 3,
+        "isSale": true,
+        "name": "Manhattan Plank",
+        "price":  429,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/manhattan-plank.webp",
+        "alt": "Manhattan Plank"
+      },
+      {
+        "id": 4,
+        "isSale": false,
+        "name": "Trevista 80 Textured",
+        "price":  453,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/trevista-80-textured.webp",
+        "alt": "Trevista 80 Textured"
+      },
+      {
+        "id": 5,
+        "isSale": false,
+        "name": "Adelaide 80",
+        "price":  542,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/adelaide-80.webp",
+        "alt": "Adelaide 80"
+      },
+      {
+        "id": 6,
+        "isSale": true,
+        "name": "Richmond 80",
+        "price":  345,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/richmond-80.webp",
+        "alt": "Richmond 80"
+      },
+      {
+        "id": 7,
+        "isSale": true,
+        "name": "Ardesia",
+        "price":  322,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/ardesia.webp",
+        "alt": "Ardesia"
+      },
+      {
+        "id": 8,
+        "isSale": true,
+        "name": "Strada Nova",
+        "price":  390,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/strada-nova.webp",
+        "alt": "Strada Nova"
+      },
+      {
+        "id": 9,
+        "isSale": false,
+        "name": "Moderna",
+        "price":  415,
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/moderna.webp",
+        "alt": "Moderna"
+      }
+    ]
+  }
